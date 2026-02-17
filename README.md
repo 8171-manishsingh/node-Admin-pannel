@@ -179,7 +179,8 @@ Password: 123456
 
 GitHub: https://github.com/8171-manishsingh
 ## output image 
-("C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 231524.png")
+(<img width="1872" height="895" alt="Screenshot 2026-02-16 231524" src="https://github.com/user-attachments/assets/82bcedb9-5621-47b5-bf95-b47b2a0ece19" />
+)
 
 ---
 
